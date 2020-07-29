@@ -3262,7 +3262,7 @@ from the metre.
 1. 
 
 μἦνιν is emphatic, by position, as the central theme of the Iliad. It is the mad wrath of Achilles, and its terrible consequences to the Greeks, which the poet uses as a thread for his plot. —
- ἀείδε [άειδω] : pres. act. imperat., 2d sing., sing, i.e. inspire me with thy gift of song, 1069. — 
+ ἄείδε [ἀείδω]: pres. act. imperat., 2d sing., sing, i.e. inspire me with thy gift of song, 1069. — 
 θεά (the muse of song) is vocative. — 
 Πηληιάδεω = Πηληιάδᾱο 573 (probably Πηληιάδᾱ’ Ἀχιλῆος stood here originally).
 
@@ -3594,7 +3594,7 @@ J \
 
 83.	6. οὗ [ὅs, ἥ, ὅ, 773], ἐξ οὗ, referring back to ἄειδε from the time when,
 
-literally, from what [time]. — το πρώτα : 781-782. — διαστήτην = διεστήτην, 837 [διίστημι]. — ἐρίσαντε [ἐρίζω] : aor. active participle, nom., dual,
+literally, from what [time]. — τὰ πρῶτα : 781-782. — διαστήτην = διεστήτην, 837 [διίστημι]. — ἐρίσαντε [ἐρίζω] : aor. active participle, nom., dual,
 masc., (they two) having quarreled.
 
 7 is in apposition with the subject of διαστήτην. The son of Atreus is
@@ -3615,11 +3615,10 @@ pron., acc. dual, these two. ·— ἔριδι: 1009. — μάχεσθαι [μά
 infinitive, deponent, to fight.
 
 9.	βασιλῆι: 996. — χολωθείς [χολόω] : aor. pass, particip., nom. sing,
-masc. (modifies ὀ), having been enraged,. — Λητοῦς = Λητόος, 584-585. —
+masc. (modifies ὁ), having been enraged,. — Λητοῦς = Λητόος, 584-585. —
 βασιλῆι = Ἀγαμέμνονι. — Λητοῦs καὶ Διὸς υἱός  = Ἀπόλλων, who was mediately
 the cause of the quarrel, since he brought a plague upon the
-Greeks, which gave occasion for the strife between Achilles and Agar
-memnon.
+Greeks, which gave occasion for the strife between Achilles and Agamemnon.
 
 10.	voῦσov is emphatic by position, as is κακήν, which is further explained
 and expanded by the following clause. — ὀλέκοντο = ὠλέκοντο,
@@ -3763,11 +3762,8 @@ Iliad, 11-16.
 χρυσεφ ανά σκήπτρω, καὶ ελίσσετο πάιπας Αχαιούς, 15
 Ἀτρείδα δε μάλιστα δύω, κοσμήτορε λαών'
 
-90.	11.	τὸν = (ilium): that well-known, since the circle of legends is
-
-familiar to the hearers of the bard. 
-
-—ἠτίμασev [ἀτιμάζω], 
+90.	11.	τὸν = (illum): that well-known, since the circle of legends is
+familiar to the hearers of the bard. —ἠτίμασev [ἀτιμάζω], 
 
 ἀρητῆρα: 1182.
 Observe that this verse ends in two spondees, making it a “spondaic”
@@ -3778,18 +3774,13 @@ reverence.
 
 12.	Ἀτρεΐδης  is made distinctly emphatic by position. It is he who
 must bear the burden of responsibility in slighting the priest. — 
-
 ἐπὶ νῆας, i.e. to the Greek camp on the shore, where they had drawn up their
 ships, out of the water.
 
 13. λῡσόμενος [λύω]: fut. mid. particip., nom. sing. masc. (modifying
 ὁ, which refers to the priest) peing about (desiring) to ransom, to ransom,
-1109, 5. — 
-
-φέρων [φέρω] : pres. act. part., nom. sing. masc. (also modifies
-ὀ), bearing, bringing.—
-
-ἀπερείσι’ ἄποινα is an example of epic exaggeration, not rare in all such compositions.
+1109, 5. — φέρων [φέρω] : pres. act. part., nom. sing. masc. (also modifies
+ὁ), bearing, bringing.—ἀπερείσι’ ἄποινα is an example of epic exaggeration, not rare in all such compositions.
 
 14.	ἔχων [ἔχω] : pres. act. part., nom. sing. masc. (modifies ὁ), having,
 holding. The ransoms were probably of gold and silver bullion and other
@@ -3803,9 +3794,8 @@ The priest depends upon two motives to influence the Greeks:
 white wool) and bearing the. sceptre as insignia of his office.
 
 — χερσὶν ἑκηβόλου: originally χερσὶ Ϝεκηβόλου. — 
-
-ἑκηβόλου Ἀπόλλωνος : 571, 1173. Apollo has the epithet “free-shooter,” “sharp-shooter” applied
-to him here, introducing him in his capacity as archer god, so
+ἑκηβόλου Ἀπόλλωνος : 571, 1173. Apollo has the epithet “free-shooter,” “sharp-shooter” 
+applied to him here, introducing him in his capacity as archer god, so
 important for the further action, where he slays the Greeks with his
 arrows. In his capacity as god of war, Jehovah was also an archer god
 at times. “God is a righteous judge. He hath bent his bow and made
@@ -3914,7 +3904,7 @@ necro-polis, metro-polis, cosmo-politan, politic(s, al).
 
 96.	Copy, scan, and translate :
 
-Iliad, 17-SI.
+Iliad, 17-21.
 
 “ ’Arp«δat τε καὶ άλλοι ενκνήμιδες Ἀχαιοί,,	17
 
@@ -3926,10 +3916,8 @@ Iliad, 17-SI.
 7ταΐδα S’ έμοι Χϋσαὶ re φίλην, τα τ’ ἄποινα ΰέγΐσθαι 20
 . αζόμενοι Δίό? υίδν έκηβόλον Ἀπόλλωνα.”
 
-97. 17. Άτρεΐδαι, etc.,vocatives. — 
-
-καὶ ἄλλοι ἐυκνήμῑδες: 1173. Greaves
-were a kind of leggings, serving as shin guards, for protection against
+97. 17. Άτρεΐδαι, etc.,vocatives. — καὶ ἄλλοι ἐυκνήμῑδες: 1173.
+Greaveswere a kind of leggings, serving as shin guards, for protection against
 weapons and to prevent chafing from the long shield of the wearer.
 
 18.	ὑμῖν [σύ] : dat. plur., to you. — 
