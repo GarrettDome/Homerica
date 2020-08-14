@@ -7698,218 +7698,153 @@ the sons of the Acliaeans.
 honor equal to Agamemnon(’s), whenever we sacked a well-situated
 city of the Trojans.
 
-LESSON XLI
-
-PRESENT, FUTURE, AND FIRST AORIST SYSTEM OF VERBS
+LESSON XLI: PRESENT, FUTURE, AND FIRST AORIST SYSTEM OF VERBS
 
 Iliad, 165-172
 
-266.	1) Review carefully all the forms of λήω in the present,
+266.	
+
+1) Review carefully all the forms of λύω in the present,
 future, and first aorist, all voices, modes, and tenses,
 904-921, and read 789-809.
 
-2)	Learn the conjugation of φαίνω in the first aorist system,
+2)Learn the conjugation of φαίνω in the first aorist system,
 931-932.
 
 267.	Optional:
 
-VOCABULARY
+268. VOCABULARY
 
-κ£κμη(κ)α do, make, toil, be
+ἀτάρ ( = αὐτάρ 571) but, moreover.
+ἄ-τῑμος, η, ον dishonored, unhonored.
+ἀφενος, εος, τό wealth, riches.
+ἀφύσσω (άφυγ-). ἀφύξω dip up, draw (out), collect, heap up.
+δασμός, οῦ, ὁ division (of spoils).
+δι-έπω (σεπ-, σπ-), διέψω, διέσπον accomplish, perform, go through, be engaged (in).
+ἐνθά-δε here, hither, there, thither.
 
-268.
-
-ἀτάρ ( = αύτάρ 571) but, moreover.
-il-Tipos, ἡ, ον dishonored, unhonored.
-
-ἀφενοϊ,
-εος, τό wealth, riches,
-ἀφύσσω (άφυγ). ἀψύξω dip up,
-
-draw (out), collect, heap up.
-Sao-pos, ον, ὁ division (of spoils).
-
-δι-έπω (<γ€τγ-, cnr-), διίψω, Sucnrov
-
-accomplish, perform, go through,
-be engaged (in).
-
-!νθά-8ε here, hither, there, thither.
-
-κάμινο (καμ-, κμη ). καμεομαι, εκαμον.
-
-weary, suffer, accomplish with
-pain.
-
-Kopovis, iSos curved, bent.
-όλί·yos, ἡ, ον little, few, small, of
-slight value, cheap.
-irkovTos, οὐ, ὁ wealth, riches, abundance.
-
-ιτ(τ)ολ£μίξω
-(cf. 7τ(τ)όλ€μος), ιτ(τ)ο-
-λεμίξω war, battle, fight,
-ιτολυ-αϊξ, «os impetuous, onrushing.
+κάμνω (καμ-, κμη-). καμέομαι, ἔκαμον, κέκμη(κ)α 
+do, make, toil, be weary, suffer, accomplish with pain
+κopωvis, ιδos curved, bent.
+ὀλίγos, η, ον little, few, small, of slight value, cheap.
+πλοῦτος, ου, ὁ wealth, riches, abundance.
+π(τ)ολεμίζω (cf. π(τ)όλεμος), π(τ)ολεμίξω war, battle, fight,
+πολυ-άῑξ, ῑκos impetuous, onrushing.
 
 <pb n="107"/>269-271]
 
-HOMERIC
-GREEK
+HOMERIC GREEK
 
-o-vv adv., and prep, with dat., with, mightier, better, braver, stronger,
-
-together (with), along with.	more	powerful, more productive,
-
-φίρτιροί, ἡ, ον (comparat. 754, 2), more profitable.
+σύν adv., and prep, with dat., with, together (with), along with.
+φέρτερος, η, ον (comparat. 754, 2) mightier, better, braver, stronger, 
+more powerful, more productive, more profitable.
 
 Derivatives: corona-tion, crown; olig-archy; pluto-crat,
 -cracy; polem-ic(al) ; syn-agogue, syn-.
 
 269.	Translate:
 
-1. Βιέπομεν πόΧεμον ποΧυάϊκα χείρεσσιν. 2. ποτέ Βασμος
-Ίκηται, Ἀγαμέμνων έχει το γέρας ποΧν μειζον, ἀχιλλεύς 8’ έχει
-(γέρας) οΧίγον μεν φίΧον he. 3. ἀχιλλεύς εχων γέρας οΧίγον
-τε φίΧον τ’ έρχεται επι νήας, έπεὶ κε κάμη ποΧεμίζων. 4. νυν
-Ἀχιλλεύς είσι ΦθΐηνΒε. 5. ἡ ιτοΧυ φέρτερόν εστιν ϊμεν οϊκαΒε
-συν νηυσιν κορωνίσιν. 6. ἀχιλλεύς έων ἀτιμος, ονκ ἀφύξει
-αφενός καὶ πΧοΰτον ἀγαμέμνονι ἐνθάΒε.
+1. διέπομεν πόλεμον πουλάῑκα χείρεσσιν. 
+2. ποτὲ δασμὸς ἵκηται, Ἀγαμέμνων ἔχει τὸ γέρας πολὺ μεῖζον, 
+Ἀχιλλεὺς δ’ έχει (γέρας) ὀλίγον μὲνφίλον δέ. 
+3. Ἀχιλλεύς ἔχων γέρας ὀλίγον τε φίλον τ’ ἔρχεται ἐπι νήας, ἐπεὶ κε κάμῃ πολεμίζων.
+4. νῦν Ἀχιλλεύς εἶσι Φθίηνδε. 
+5. ἦ πολὺ φέρτερόν ἐστιν ἴμεν οἴκαδε συν νηυσὶν κορωνίσιν. 
+6. Ἀχιλλεύς ἐὼν ἄτῑμος, οὐκ ἀφύξει
+ἄφενός καὶ πλοῦτον Ἀγαμέμνονι ἐνθάδε.
 
 270.	Read and translate :
 
 Iliad, 165-172
 
 ἀλλα το μεν πΧεϊον ιτοΧυάικος ποΧέμοιο	χβ5
-
 χεϊρες εμα'ι Βιέπουσ, αταρ ην ποτε Βασβος ίκηται,
 σοι το γέρας ποΧν μειζον, εγίο 8’ οΧίγον τε φίΧον τε
 έρχομ’ εχων eVi νήας, επεὶ κε κάμω ποΧεμίζων.
 νυν 8’ είμι ΦθίηνΒ’., επει ἡ ποΧυ φέρτεράν εστιν
-οικα8’ ϊμεν συν νημσι κορωνίσιν, οὐ8έ σ’ οίω	χγο
-
+οικα8’ ϊμεν συν νημσι κορωνίσιν, οὐ8έ σ’ οίω	
 ενθάΒ’ ἀτιμος είέν ἀξενος καὶ πΧοΰτον ἀφυξειν.”
 τον 8’ ήμείβετ έπειτα ἀναζ ανΒρῶν Ἀγαμέμνων *
 
-271.	165. τό irXetov: comparat. of πολνς, 754, 9, the greater (part).
+271.	165. τὸ πλεῖον: comparat. of πολύς, 754, 9, the greater (part).
 
-166.	x«tp«s «μαί: my hands, a more effectual and picturesque way of
-saying “ I did it.” Sao-pos: “ And when Joshua sent them away also unte
+166.	
+
+χεῖρες ἐμαί: my hands, a more effectual and picturesque way of
+saying “ I did it.” 
+
+δασμός: “And when Joshua sent them away also unte
 their tents, then he blessed them, and he spake unto them, saying, Return
 with much riches unto your tents, and with very much cattle, with silver,
-and with gold, and with brass, and with iron, and with very much raiment
-: divide the spoil of your enemies with your brethren.” “ But all
+and with gold, and with brass, and with iron, and with very much raiment: 
+divide the spoil of your enemies with your brethren.” “ But all
 the cattle, and the spoil of the cities, we took for a prey to ourselves.”
 
-167.	τό: the well-known, usual (gift of honor). — m>Xv: 780-781.—
-μ,ίΐζον: comparat, of ρίγας, 754. — ολίγον: of slight value (not petite).
+167.	
+τό: the well-known, usual (gift of honor). 
+— πολύ: 780-781.—
+μεῖζον: comparat, of μέγας, 754.
+— ὀλίγον: of slight value (not petite).
 
-<pb n="108"/>LESSON XLII	[272-275
-
-— ολίγον re φίλον τί: of slight value, yet dear (to me). Cf. Shakespere :
-“ a poor virgin, an ill-favoured thing, but mine own.”
-
-168.	ϊρχομ’(αι).— when I am weary (of) fighting.
-
-149-168. There is a distinct note of pathos running through this
-whole passage, and a feeling of hot but helpless resentment at Agamemnon’s
-overbearing arrogance, together with his ingratitude toward those
-to whom he owed so much.
-
-169.	“ This is no place for me; I’m going home.”
-
-170.	<r’(oi) : 997. — έίω: ironically, as often. — κορωνίσιν: this word
-visualizes the curved line of the Greek ship, with its high prow and stem.
+<pb n="108"/>LESSON XLII	
 
 272. Translate:
 
 1. Although the greater (part) of this impetuous war was
 accomplished by our hands, you always have much the greater
-prize, whenever a division of spoil (s) comes. 2. When
-they grew weary (of) fighting, they went to their ships with
-(having) prizes, small yet dear to their hearts. 3. It was
-much better to go to Phthia; nor did they think that since
+prize, whenever a division of spoil(s) comes. 
+2. When they grew weary (of) fighting, they went to their ships with
+(having) prizes, small yet dear to their hearts. 
+3. It was much better to go to Phthia; nor did they think that since
 they had been dishonored here they would collect wealth and
 riches for Agamemnon.
 
-LESSON XLII
-
-THE SECOND AORIST, AND THE FIRST AND SECOND
-PERFECT SYSTEMS OF VERBS
+LESSON XLII: THE SECOND AORIST, AND THE FIRST AND SECOND PERFECT SYSTEMS OF VERBS
 
 Iliad, 173-181
 
-273.	1) Learn the conjugation of the perfect system of
-\νω and of βαίνω, 904-915, 922, 930.
+273.	
+1) Learn the conjugation of the perfect system of
+λύω and of βαίνω, 904-915, 922, 930.
 
-2)	Head carefully 810-818.
+2) Read carefully 810-818.
 
 274.	Optional:
 
 275.	VOCABULARY
 
-£ιο-τρ«φή5, es Zeus-nourished,
-ίϊνίκα (= ϊνίκα, 571) on account of.
+διο-τρεφής, ές Zeus-nourished,
+εἵνεκα (=ἕνεκα, 571) on account of.
+ἐπι-σσεύω (σευ-, συ-), —, ἐπέσσευα,
+ἐπέσσυμαι, ἐπεσ(σ)ύθην drive on, hurry on, urge.
+ἕταρος (ἑταῖρος, 571), ου,ὁ companion, comrade, follower, friend,
+ἐχθρός, ή, όν (compar, ἐχθίων, ον; superl., ἔχθιστος, η, ον) hateful, hated, enemy, hostile,odious.
 
-im o-<rei<i> (crew, συ-), —, firfcnrcva,
-Ιιτίσσυμαι, ί·π·ίο-(σ)ΐθην drive on,
-hurry on, urge.
-
-trapos (eratpos, 571), ον, o companion,
-comrade, follower, friend,
-ίχθρό?, ή, όν (compar, ΐχθίων, ον;
-superi, ϊχβιστοί, ἡ, ον) hateful,
-hated, enemy, hostile, odious.
 
 <pb n="109"/>276-277]
 
 HOMERIC GREEK
 
-καρτεράς, ·η. αν (= κρατερός) (597—
-
-598), strong, mighty, severe,
-harsh, stern,
-κοτέ-ω, έκότεσ(σ)α, κεκότη(κ)α hold
-a grudge, be angry, be vindictive,
-μάλιστα (comparat. of μάλα) most
-of all, especially, by all means,
-decidedly,
+καρτερός, ή, όν (= κρατερός) (597—598), strong, mighty, severe, harsh, stern,
+κοτέ-ω, ἐκότεσ(σ)α, κεκότη(κ)α hold a grudge, be angry, be vindictive.
+μάλιστα (comparat. of μάλα) most of all, especially, by all means, decidedly.
 μάχη, ης, ἡ battle, fight, fray,
-μένω (μεν-, μενε-) μενεω, εμεινα, μεμέ-
-νηκα** remain, await.
+μένω (μεν-, μενε-) μενέω, ἔμεινα, μεμένηκα** remain, await.
 
-Derivatives: Dinomache,
-cracy.
+Derivatives: Dinomache, cracy.
 
 276. Translate:
 
-μητίετα, do, 6 counsellor, (prudent)
+1. φεύξομαι μάλα, ἐπεὶ μοι θῡμὸς ἐπέσσθται τόδε. 
+2. λισσόμεθα Πηληιάδην μένειν εἵνεκα' Ἀγαμάμνονον. 
+3. παρ’ Ἀγαμέμνονί γε ἄλλοι εἰσίν, οἵ κε τὸν τῑμήσουσι, μάλιστα δὲ μητίετα Ζεύς. 
+4. Ἀχιλλεύς ἐστιν ἔχθιστος πάντων διοτρεφέων βασιλήων Ἀγαμέμνονι. 
+5. ἔρις τε φίλη Ἀχιλῆί ἐστιν αἰεὶ πόλεμοί τε μάχαι τε. 
+6. Ἀχιλλεὺς μάλα καρτερός ἐστιν, ἀλλά που θεός οἱ τό γ' ἔδωκεν. 
+7. Ἀχίλλεὺς εἶσι οἴκαδε σὺν νηυσί τε καὶ ἑτάροισιν, ἀνάξει δὲ Μυρμιδόνεσσιν.	
+8. Ἀγαμέμνων οὐκ ἀλεγίζει οὐδ' ὄθεται Ἀχίλῆος κοτέοντος.
 
-adviser.
-
-Μνρμιδών, όνος, 6 Myrmidon, Greek.
-οθ-ομαι with pen. 984, reck, care,
-consider, regard, worry,
-τΐμά-ω, τιμήσω, Ιτίμησα, τετίμηκα*,
-τετίμημαι, έτϊμήθην* honor, gain
-. honor; mid. avenge, exact recompense,
-ωδε
-thus, so, in this way, as follows.
-
-logo-,
-scio-, theo-machy; timo-
-
-1. φεύξομαι μάΧα, επεὶ μοι θύμον eiτεσσυται τάδε. 2. Χισ
-σόμεθα ΤΙηΧηιάδην μάναν avete ἀγαμάμνονον. 3. παρ’ ἀγα-
-μάμνονὶ ye ἀλλοι είσίν, οΐ κε τον τίμήσουσι, μάΧιστα he μητίετα
-Ζεύν. 4. ἀχιλλεό? εστιν εγ_θ ιστόν πάντων διοτρεφάων βασι-
-Χήων ἀyaμeμvovι. 5. εριν τε φίΧη ἀχίΧήὶ εστιν αἰει πόΧεμοί
-τε μάγαι τε. 6. ἀχιλλείν μάΧα καρτεράν εστιν, ἀλλα που
-θεόν οὶ τό y εδωκεν. 7. ἀχίλλεύν εΐσι οίκαδε συν νηνσὶ τε
-και ετάροισιν, ἀνάξει δε Μυρμιδόνεσσιν.	8. ’Ayapepvav οὐκ
-
-ἀXeyίζeι οὐδ’ οθεται ἀχίΧήον κοτεοντον.
-
-277. Read and translate*
+277. Read and translate
 
 Iliad, 173-181
 
@@ -7927,8 +7862,8 @@ Iliad, 173-181
 
 <pb n="110"/>LESSON XLII	[278
 
-278. 173. τοι: 998. — φίΰγί: flee, desert. It is this insinuation
-which helps Achilles decide to stay.
+278. 173. τοι: 998. — 
+φεῦγε: flee, desert. It is this insinuation which helps Achilles decide to stay.
 
 173-174. “ Run along home, by all means; don’t stay on my account.”
 Ironical, of course.
@@ -7937,11 +7872,11 @@ Ironical, of course.
 example of the subtle irony of the poet; for it is Zeus and no other who
 dishonors Agamemnon in the sequel. The king’s proud speech here and
 his haughty presumption upon the favor of Zeus, the natural protector
-of kings, thus make his later discomfiture all the more striking and humiliating.—
-Τίμήσουσι : 1144.
+of kings, thus make his later discomfiture all the more striking and humiliating. —
+τῑμήσουσι : 1144.
 
-177. 2pis τὶ φίλη (ίστίν). φίλη agrees with epis, but is to be taken
-with πόλίμοὶ re μάχα,ι re also.
+177. ἔpis τε φίλη (ἐστίν). φίλη agrees with ἔρις, but is to be taken
+with πόλεμοί τε μάχαι τε also.
 
 178.	“ Granted that you are brave and mighty (thus acknowledging
 Achilles’ assertion of the important part he had played in the war, vss.
@@ -7949,16 +7884,19 @@ Achilles’ assertion of the important part he had played in the war, vss.
 god is responsible, who gave it all to you without any effort or wit on
 your part.”
 
-180.	Μυρμ,ιδόνίσσιν1001, but in the mouth of Agamemnon may be
-considered a dative of disadvantage, 997. — Μυρμιδόν6σσι ράνασσt originally.
-— σίθίν: 984. Observe the hissing effect produced by the heaping
-up of sigmas in this and the preceding verse. Μνρμφάνζσσιν receives
+180.	Μυρμιδόνεσσιν: 1001, but in the mouth of Agamemnon may be
+considered a dative of disadvantage, 997. — 
+Μυρμιδόνεσσι ϝάνασσε originally.
+— σέθεν: 984. 
+
+Observe the hissing effect produced by the heaping
+up of sigmas in this and the preceding verse. Μυρμιδόνεσσιν receives
 prominence by its position in the verse, since Agamemnon wishes to
 make clear to Achilles the limits of his authority, and that he has no
 right to be issuing commands to the Achaeans. Agamemnon will bear
 no infringement of his own prerogatives.
 
-181.	KOTtovTos (<rco) : 984.
+181.	κοτέοντος (σέο) : 984.
 
 In this whole passage Agamemnon assumes a tone of sneering sarcasm
 and contempt for Achilles, as though he were but a peevish and willful
@@ -7989,19 +7927,15 @@ pronouns in this whole passage.
 
 279. Translate :
 
-1. Agamemnon, king of men, said to Achilles, “ Ply by all
-means, if your soul urges you. ”	2.	The	Achaeans	entreated
-
-us greatly to remain with them, that we might honor them
-especially. 3. Zeus, the counselor, will especially honor all
-the kings. 4. Agamemnon and Menelaus were to Achilles
-the most hateful of all the Zeus-nourished kings; for always
-strife and wars and battles were dear to their hearts.
-
-5.	Although they were very strong, some god had given
-that to them. 6. Let us go home with our ships and our
-comrades, and rule the Myrmidons. 7. We do not regard
-Achilles, nor do we care when he holds a grudge; since we
+1. Agamemnon, king of men, said to Achilles, “Fly by all
+means, if your soul urges you.”	
+2. The Achaeans entreated us greatly to remain with them, that we might honor them
+especially. 
+3. Zeus, the counselor, will especially honor all the kings.
+4. Agamemnon and Menelaus were to Achilles the most hateful of all the Zeus-nourished kings; for always strife and wars and battles were dear to their hearts.
+5. Although they were very strong, some god had given that to them.
+6. Let us go home with our ships and our comrades, and rule the Myrmidons. 
+7. We do not regard Achilles, nor do we care when he holds a grudge; since we
 are much mightier.
 
 LESSON XLIII
@@ -8010,7 +7944,7 @@ THE PERFECT MIDDLE SYSTEM OF VERBS
 
 Iliad, 182-192
 
-280.	1) Learn the perfect middle system of Χύω, 910-915,
+280.	1) Learn the perfect middle system of λύω, 910-915,
 τρέφω, τεύχω, and πυνθάνομαι, 925-929.
 
 2)	Study the table of personal endings of verbs, 819-829.
@@ -8019,139 +7953,131 @@ Iliad, 182-192
 
 282.	VOCABULARY
 
-αντην openly, before the face,
-αχό?, eos, τό woe, pain, grief.
-Bpitnjis, iSos, ἡ Briseis, daughter of
-Briseus.
-
-δι-άν-διχο in two ways, differently,
-έναρίζω (ΐναριγ-), ίναρίξω, ήνάριξα
-
+<<<<<<< Updated upstream
+ἄντην openly, before the face,
+ἄχος, εος, τό woe, pain, grief.
+Βρῑσηίς, ίδος, ἡ Briseis, daughter of Briseus.
+δι-άν-διχα in two ways, differently.
+ἐναρίζω (ἐναριγ-), ἐναρίξω, ἠνάριξα
 strip of armor, spoil, slay.
 
-ΐρητν-ω, ήρήτνσα, ήρητνθην check,
+ἐρητύ-ω, ἠρήτῡσα, ἠρητύθην check,
 restrain, control, contain, hold
 back, curb,
-ήτορ, ορος, τό heart, soul, spirit,
-κλιο-ίη, ης, ij hut, barrack, tent.
-λάσios, ἡ, ον hairy, shaggy, rough,
+ἦτορ, ορος, τό heart, soul, spirit,
+κλισίη, ης, ἡ hut, barrack, tent.
+λάσioς, η, ον hairy, shaggy, rough,
 bushy.
+=======
+ἄντην openly, before the face.
+
+ἄχος, εος, τό woe, pain, grief.
+
+βρισηίς, ίδος, ἡ Briseis, daughter of Briseus.
+
+δι-άν-διχο in two ways, differently. 
+
+ἐναρίζω (ἐναριγ-), ἐναρίξω, ἠνάριξα strip of armor, spoil, slay.
+
+ἐρητύ-ω, ἠρήτνσα, ἠρητύθην check, restrain, control, contain, hold back, curb.
+
+ἦτορ, ορος, τό heart, soul, spirit.
+
+κλισίη, ης, ἡ hut, barrack, tent.
+
+λάσιος, η, ον hairy, shaggy, rough, bushy.
+>>>>>>> Stashed changes
 
 <pb n="112"/>LESSON XLIII
 
 [283-284
 
-|«(»-μηρ£ί> (μηριγ), Ιμίρμήριξα pon- ιταΰ-ω, ιταίσω, «ιτανσα, «άταυκα*,
-der, consider.	ΐΓέιταιιμαι,	«ιτανθην*	cease, stop,
+<<<<<<< Updated upstream
+μερ-μηρίζω (μηριγ), ἐμερμήριξα ponder, consider.
+μῆρος, ου, ὁ thigh.	
+ὁμοιό-ω*, ὁμοιώσω*, ὡμοιώθην liken, make like, compare, make equal.
+ὀξύς, εῖα, ύ sharp, biting, cutting,  
+ὅσ(σ)ος, η, ον how much, how great, how many, how large, how long.
+παύ-ω, παύσω, ἔπαθσα, πέπαθκα*, πέπαυμαι, ἐπαυθην* cease, stop, pause, check, restrain, hold off.
+Πηλείων, ωνος, ὁ son of Peleus, Achilles.
+στυγέω (στυγ-, στυγε-), ἔστυξα (ἔστυγον), ἐστυγήθην hate, loathe, dislike, make hateful, hold in horror, fear. 
+φάσγανον, ου, τὸ sword, sabre.
+=======
+μερ-μηρίζω (μηριγ-), ἐμερμήριξα pon-
+der, consider. 
 
-μήρος, ον, ὁ thigh.	pause,	check, restrain, hold off.
+παύ-ω, παύσω, ἔπαυσα, πέπαυκα*, πέπαυμαι, ἐπαύθην* cease, stop, pause, check, restrain, hold off.
 
-όμοιί-ω*, ομοιώσω* ώμοιώβην liken, Πηλιΐων, ωι/os, ὁ son of Peleus,
-make like, compare, make Achilles.
+μῆρος, ου, ὁ thigh.
 
-equal.	στνγίω	(στυγ-, στυγι-), 2στυ|α
+ὁμοιὀ-ω*, ὁμοιώσω*, ὡμοιώθην liken, make like, compare, make equal.	
 
-o|vs, £Ϊα, υ sharp, biting, cutting,	(«rrvyov),	ίστνγή6ην| hate,
+Πηλεΐων, ωνος, ὁ son of Peleus, Achilles. 
 
-keen, acid.	loathe, dislike,	make hateful,
+ὀξύς, εῖα, ύ sharp, biting, cutting, keen, acid.
 
-οσ(σ)οϊ, if, ov how much, how	hold in horror, fear.
+στυγέω	(στυγ-, στυγε-), ἔστυξα (ἔστυγον), ἔστυγήθην hate, loathe, dislike,	make hateful, hold in horror, fear.
 
-great, how many, how large,	φάσγανον, ον, τό sword,	sabre,
+ὅσ(σ)ος, η, ον how much, how great, how many, how large, how long.
 
-how long.
+φάσγανον, ου, τό sword,	sabre.
+>>>>>>> Stashed changes
 
-Derivatives: hom(o)e-o-pathy, homologous, -geneous;
+Derivatives: hom(o)e-o-pathy, homo-logous, -geneous;
 Stygian.
 
 283.	Translate:
 
-1. αφαιρεόμεθα βασιΧήα Ἀρϋσηίδα το γέρας καΧόν. 2. Ἀγα-
-μέμνων πέμψει Ἀρϋσηίδα e? Χρνσην συν νηϊ καὶ ετάροισιν
-εοίσιν. 3. ἀναξ αυτός ιῶν κΧισίηνδε αξει ΈρΙσηίδα καλλπτά-
-ρρον τό γέρας ἀχιλλήος, οφρ’ ἀγιλλεύς εύ εϊδτ/ όσσον φέρτερός
-εστιν Ἀγαμέμνων.	4. ἀλλοι στνγέουσι φάσθαι σφε'ας αυτούς
-
-είναι'Ισους ἀγαμέμνονι καὶ όμοιωθήμεναι ἀντην. 5. ητορ ΥΙη-
-Χεΐωνος έμερμήριξε διάνδιγα, ἡ 6 γε ερυσσάμενος φάσγανον οξύ
-7rapa μηρού αναστήσειε μεν τούς Ἀχαιούς, ἐναρίζοι δ’ ἀτρειδην,
-ήε 7ταΰσειε γοΧον ερητΰσειέ τε θυμόν. 6. ἀγος μεγα έγένετο
-τοισιν ἀγαιοϊσιν, οΰνεκα Ἀγαμέμνων αφείΧετο Βρϊσηίδα καΧ-
-Χιπάρηον ἀγιΧήα.
+1. ἀφαιρεόμεθα βασιλῆα Χρῡσηίδα τὸ γέρας κᾱλόν.
+2. Ἀγαμέμνων πέμψει Χρῡσηίδα ἐς Χρύσην σὺν νηὶ καὶ ἑτάροισιν ἑοῖσιν. 
+3. ἄναξ αὐτὸς ἰὼν κλισίηνδε Βρῑσηίδα καλλιπάρῃον τὸ γέρας Ἀχιλλῆος, ὄφρ' Ἀχιλλεὺς ἐὺ εἴδῃ ὅσσον φέρτερός ἐστιν Ἄγαμέμνων. 
+4. ἄλλοι στυγέουσι φάσθαι σφέας αὐτοὺς εἶναι ἴσους Ἀγαμέμνονι καὶ ὁμοιωθήμεναι ἄντην.
+5. ἦτορ Πηλεΐωνος ἐμερμήριξε διάνδιχα, ἢ ὅ γε ἐρυσσάμενος φάσγανον ὀξὺ παρὰ μήρου ἀναστήσειε μὲν τοὺς Ἀχαιούς, ἐναρίζοι δ' Ἀτρεΐδην, ἠὲ παύσειε χόλον ἐρητΰσειέ τε θῡμόν.
+6. ἄχος μέγα ἐγένετο τοῖσιν Ἀχαιοῖσιν, οὕνεκα Ἀγαμέμνων ἀφείλετο Βρῑσηίδα καλλιπάρῃον Ἀχιλῆα.
 
 284.	Read and translate:
 
 Iliad, 182-192
-
-ως eμ’ ἀφαιρεΐται Χρυσηίδα Φοίβος ἀπόλλων,
-
-την μεν εγω συν νηὶ τ έμή καὶ εμοϊς ετάροισιν
-
-ςτεμψω, εγω δε κ ἀγω Βρισηίδα καλλπτάρηον
-
-αυτός ίων κΧισίηνδε, τό σόν γέρας, οφρ’ εύ ειδής	185
-
-οσσον φερτερός είμι σέθεν, στυγέη δε καὶ αλλος
-
-Ισον έμοὶ φάσθαι καὶ όμοιωθήμεναι αντην.”
+ὡς ἔμ ἀφαιρεῖται Χρύσηίδα Φοῖβος Ἀπόλλων,
+τὴν μὲν ἐγὼ σὺν νηί τ' ἐμῇ καὶ ἐμοῖς ἑτάροισιν
+πέμψω, ἐγὼ δέ κ' ἄγω Βρισηίδα καλλιπάρῃον
+αὐτὸς ἰὼν κλισίηνδε, τὸ σὸν γέρας, ὄφρ' ἐὺ εἴδῃς
+ὅσσον φέρτερός εἰμι σέθεν, στυγέῃ δὲ καὶ ἄλλος ἶσον ἐμοὶ φάσθαι καὶ ὁμοιωθήμεναι ἄντην."
 
 <pb n="113"/>285]
 
 HOMERIC GREEK
 
-ως φάτο ■ ΤίηΧεΐωνι h’ αχός γενετ’, ἐν hi οι ητορ
-στήθεσσιν Χασίοισι όιάνΒιχα. μερμήριξεν,
-τ} ο γε φάσ'γανον οζν ερνσσάμενο^ ιτα,ρα μηρόν	ι<)0
+ὦς φάτο * Πηλεΐωνι δ' ἄχος γένετ', ἐν δέ οἱ ἦτορ
+στήθεσσιν λασίοισι διάνδιχα μερμήριξεν,
+ἢ ὅ γε φάσγανον ὀξὺ ἐρυσσάμενος παρὰ μηροῦ τοὺς μὲν ἀναστήσειεν, ὁ δ' Ἀτρεΐδην ἐναρίζοι,
+ἦε χόλον παύσειεν ἐρητύσειέ τε θυμόν.
 
-τούς μεν αναστήσειεν, ὁ S’ ἀτρεί'Βην ἐναρίζοι,
-ηε νοΚον παύσειεν έρητύσειε τε θυμόν.
+285. 182. ἔμ'(ε), Χρῡσηίδα : 1020, 1.— ἀφαιρεῖται = ἀφαιρέεται: 584-
+585. — ὡς : as, since.
 
-285. 182. εμ’(ε), Χρϋσηίδα : 1020, 1.—άφαιρείταΛ = ἀφαιρεεται: 584-
-585. — is : as, since.
+184. πέμψω, ἄγω: observe the variation due to the use of the indicative and subjunctive. Agamemnon is more sure of the first than of the second. — ἄγω : 1101. — καλλιπάρῃον is maliciously added by Agamemnon to tantalize and irritate Achilles further, at the prospect of losing such a desirable prize.
 
-184.	ιτφιψω, ἀγω: observe the variation due to the use of the indicative
-and subjunctive!. Agamemnon is more sure of the.first than of the
-second. — αγω : 1101. — καλλίΊτάρηον is maliciously added by Agamemnon
-to tantalize and irritate Achilles further, at the prospect of losing such
-a desirable prize.
-
-185.	“ To prove my superior power, I shall go myself.” — το σόν yepas :
-
-in apposition with ΒρϊσηίΒα. The addition of the demonstrative pronoun
-(to) makes the expression more vivid. —	:	1115-1116. -Aga-
-
-memnon consciously sets himself over against Achilles, and indicates
-that “ as the god has done to me, so will I do to you,” and is careful to
-emphasize' that he would yield to no one less than the god himself.
-The repetition of εγώ and the addition of αντός show clearly the king’s
+185. “To prove my superior power, I shall go myself.” — τὸ σὸν γέρας: in apposition with Βρῑσηίδα. The addition of the demonstrative pronoun (τό) makes the expression more vivid. — εἴδῃς:	1115-1116. Agamemnon consciously sets himself over against Achilles, and indicates that “as the god has done to me, so will I do to you,” and is careful to
+emphasize that he would yield to no one less than the god himself. The repetition of ἐγώ and the addition of αὐτός show clearly the king’s
 feeling of proud superiority and conscious power.
 
-186.	oo-o-ov : 564, 3. — σέθεν: 993. — οτυγετ]: 1115-1116. — καί: also,
-even (as well as yourself).
+186. ὅσσον: 564, 3. — σέθεν: 993. — στυγέῃ: 1115-1116. — καί: also, even (as well as yourself).
 
-187.	εμοὶ (είναι) : 1003. — φάσθαι ΐ φημί1.—όμοιωθήμεναι : liken himself
-890.
+187. ἐμοὶ (εἶναι) : 1003. — φάσθαι [φημί]1.— ὁμοιωθήμεναι : liken himself 890.
 
-186-187. i.e. “I shall make such an example of you that no one else
-may ever venture to display such arrogance or set up his will in opposition
-to my own.” The situation has now reached an impasse. Stung
-as he was by the brutal taunts of Agamemnon, the only thing left for
-a high-spirited man in Achilles’ position would be to kill him, or else
-lose his own life in the attempt.
+186-187. i.e. “I shall make such an example of you that no one else may ever venture to display such arrogance or set up his will in opposition to my own.” The situation has now reached an impasse. Stung as he was by the brutal taunts of Agamemnon, the only thing left for
+a high-spirited man in Achilles’ position would be to kill him, or else lose his own life in the attempt.
 
-188.	Πηλεΐωνι: 998. — iv 5U oi . . . στήθεσσιν : 998, 1009.
+188. Πηλεΐωνι: 998. — ἐν δέ οἱ . . . στήθεσσιν : 998, 1009.
 
-189.	XacrCouri: hair on the chest is still considered a mark of a strong
-and virile man.
+189. λασίοισι: hair on the chest is still considered a mark of a strong and virile man.
 
-190.	ή: whether.
+190. ἤ: whether.
 
-191.	Toils (aXXovs ἀχαιούβ) : evidently Agamemnon was sitting down
-in the assembly, with the other chieftains seated around him. Achilles
-would need to make these start up in order to get at Agamemnon. —
-ἀνα<πήσ·ειεν, ἐναρίζοι: 1153.
+191. τοὺς (ἄλλους Ἀχαιούς): evidently Agamemnon was sitting down in the assembly, with the other chieftains seated around him. Achilles would need to make these start up in order to get at Agamemnon. — ἀναστήσειεν, ἐναρίζοι: 1153.
 
-192.	ήε : or.—-ιτα·ί>σ·ειεν, ίρητΐσειέ τε : 1153.
+192. ἦε : or.— παύσειεν, ἐρητΰσειέ τε: 1153.
 
 <pb n="114"/>LESSOR XLIV
 
@@ -8261,7 +8187,7 @@ static ; comet; trope, etc., 261; dia-phanous, etc., 194.
 
 291.	Read and translate :
 
-IUad, 193-200
+Iliad, 193-200
 
 ήος ὁ τανθ’ ωρμαινε κατὰ φρένα καὶ κατὰ θυμόν,
 
@@ -13213,7 +13139,7 @@ Marble copy of the bronze
 original by Lysippus, a fourth
 century sculptor</p></head>
 
-462.	Treatment of ᾱ in Attic. — After e, i, p, the ἡ of Homer,
+462.	Treatment of ᾱ in Attic. — After ε, ι, ρ, the η of Homer,
 when representing an earlier ᾱ (621), becomes ᾱ in Attic, except
 that ρϝη = ρη, as κόρη for κόρϝη = Homeric κουρη maiden and ρση =
 ρρη, as θάρρος for θάρσος <gloss>courage</gloss>.
@@ -13228,10 +13154,10 @@ before Attic literature begins, and it had no influence on Attic verse.
 
 465. Consonantal change. — 
 
-1) σσ of Homer becomes rr in Attic,
-as θάλασσα, πρήσσω of Homer become θάλαπα, πράπω in Attic;
+1) σσ of Homer becomes ττ in Attic,
+as θάλασσα, πρήσσω of Homer become θάλαττα, πράττω in Attic;
 except that two sigmas brought together by inflection become σ,
-as ποσὶ for ποσσὶ (ποδσι), ἔπεσι for ἔπεσσι, τελέσαι for τελέσσαι.
+as ποσὶ for ποσσὶ (ποδσι), ἔπεσι for ἔπεσ-σι, τελέσαι for τελέσ-σαι.
 
 2) ρσ of Homer becomes ρρ in Attic.
 
@@ -13246,10 +13172,10 @@ which it carries metathesis of quantity
 467.	Thus Homeric θαλασσάων, ἥρωι.
 
 ἥρώα, ἔπεος, ἔπεα, γέραος, γέραα, πόληος, βασιλῆος, 
-βασιλῆα, βασιλήων, βασιλῆας, νηάς, νηῶν
-regularly become in Attic θαλαπῶν, ἥρῳ,
+βασιλῆα, βασιλήων, βασιλῆας, νηός, νηῶν
+regularly become in Attic θαλαττῶν, ἥρῳ,
 
-ἥρω, ἔπους, ἔπη, γἐρως, γέρᾱ, πόλeως, βασιλέως, 
+ἥρω, ἔπους, ἔπη, γἐρως, γέρᾱ, πόλεως, βασιλέως, 
 βασιλέᾱ, βασιλέων, βασιλέᾱς, νεώς, νεῶν.
 
 468.	Nouns and adjectives. — Attic had
@@ -13272,13 +13198,13 @@ sculptor</note>
 
 
 
-3)	The dative plural of all three declensions regularly lias the
+3)	The dative plural of all three declensions regularly has the
 shorter forms : in the first declension -αις, in the second declension
--ois, in the third declension -σι.
+-οις, in the third declension -σι.
 
-4)	The gen. sing. masc. of the first declension ends in -ov.
+4)	The gen. sing. masc. of the first declension ends in -oυ.
 
-5)	The gen. sing, of nouns and adjectives with stems in ην, ι, υ is regularly-εως.
+5)	The gen. sing, of nouns and adjectives with stems in ηυ, ι, υ is regularly-εως.
 
 6)	The acc. plur. of masc. and fem. nouns and adjectives with stems in ηυ, ι, υ, ες regularly ends in -εις.
 
@@ -13286,13 +13212,13 @@ shorter forms : in the first declension -αις, in the second declension
 
 
 
-7)	Comparatives with, stems in -or, as ἀμείνων, may end in : ω in
+7)	Comparatives with, stems in -ον, as ἀμείνων, may end in : ω in
 the acc. sing., masc. and fern., and in the nom., acc., and voc. plur.
 neuter; and may end in -ους in the nom., acc., and voc. plur.
-masc. and fern.
+masc. and feμ.
 
 469.	For the irregular “ Attic Second Declension,” and the
-declension of adjectives as ΐλεως, ων, of ναΰς, and of ypav<; see any
+declension of adjectives as ΐλεως, ων, of ναΰς, and of γραῦς; see any
 good Greek grammar.
 
 470.	Pronouns. — For the declension of the personal, interrogative,
@@ -13310,17 +13236,17 @@ of the third plural of Attic verbs.
 473.	For the Attic forms of regular -μι verbs, see any good
 Greek grammar.
 
-474.	For the Attic forms of the irregular verbsp-riju, εΐμι, φημί,
-ημαι, κείμαι, and οίδα, see any good Greek grammar.
+474.	For the Attic forms of the irregular verbs εἰμί, εἶμι, φημί,
+ἧμαι, κεῖμαι, and οἶδα, see any good Greek grammar.
 
-475.	The first perfect active of verbs, as λελνκα (904), is common
+475.	The first perfect active of verbs, as λέλυκα (904), is common
 and is the regular form in Attic Greek for verbs with all
 classes of stems.
 
-476.	In many second perfects with stems in -π-, β, κ, y, the final
-mute of the stem is asjjirated (619), v and β becoming φ, while κ
-and y become y. Thus πέπομφα \_πεμπω~\, τετριφα. [τρΓ/3ω], ηχα
-[αγω], διδίωχα [διώκω].
+476.	In many second perfects with stems in π, β, κ, γ, the final
+mute of the stem is aspirated (619), π and β becoming φ, while κ
+and γ become χ. Thus πέπομφα [πέμπω], τέτριφα. [τρίβω], ἦχα
+[ἄγω], διδίωχα [διώκω].
 
 477.	Contracted nouns, adjectives, and verbs. —For the inflection
 of contract nouns, adjectives, and verbs, see any good Greek
@@ -13328,7 +13254,7 @@ grammar.
 
 478.	The following table for Attic forms, corresponding to the
 table in 649 for Homeric forms, indicates the resultant endings
-produced by the fusion of the case endings with the stem^of nouns
+produced by the fusion of the case endings with the stem of nouns
 and adjectives.
 
 <pb n="202"/>First Declension	Second	Declension	Third	Declension
@@ -13627,10 +13553,9 @@ SYNTAX
 
 480.	The differences in Homeric and Attic syntax can best be
 learned by the careful study of some good work on Attic prose
-
 composition.
 
-481.	The article. — In Attic Greek 6, f/, to is regularly employed
+481.	The article. — In Attic Greek ὁ, ἡ, τό is regularly employed
 as the definite article (the), its absence ordinarily marking a noun
 as indefinite, as ὁ πόλεμος the war, πόλεμος war.
 
@@ -13638,70 +13563,69 @@ as indefinite, as ὁ πόλεμος the war, πόλεμος war.
 without marking the noun as indefinite.
 
 483.	At times it may represent the unemphatic possessive pronoun,
-as Kνρος καταπεύήσάς από τον ἀρματος τον θωρηκα ἐνεύν καί
-ἀναβας επὶ τον ίππον τα πάλτα εις τας χεΐρας ελαβε Oyrus, having
+as Kῦρος, καταπεδήσας ἀπό τοῦ ἅρματος τὸν θώρηκα ἐνεδυ καὶ
+ἀναβὰς ἐπὶ τὸν ἵππον τὰ πάλτα εἰς τάς χεῖρας ἔλαβε Cyrus, having
 leaped down from his chariot, put on his breastplate, and having
 mounted his horse took his javelins in his hands.
 
 484.	It may be employed, especially with adjectives and
-participles, in a generic sense, denoting a class, as ὁ ἀνθρωπος
-manQcind), οι ἀ-γαθοὶ the good, b βονλόμενος anyone who wishes, oi
-•γέροντες the aged.
+participles, in a generic sense, denoting a class, as ὁ ἄνθρωπος
+man(kind), οἱ ἀγαθοί the good, ὁ βονλόμενος anyone who wishes, οἱ
+γέροντες the aged.
 
-485.	It may be used with proper names in familiar style, as b
+485.	It may be used with proper names in familiar style, as ὁ
 Σωκράτης Socrates.
 
 486.	It is used in a variety of ways to form substantives :
 
-1)	With adjectives and participles, as oi πλούσιοι the rich, oi
-7ταράντες those present.
+1)	With adjectives and participles, as οἱ πλούσιοι the rich, οἱ
+παρόντες those present.
 
-2)	With possessive pronouns, as oi σοὶ your people, τα ημέτερα.
-
+2)	With possessive pronouns, as οἱ σοί your people, τὰ ἡμέτερα.
 our possessions, our affairs.
 
-3)	With genitives, as ®ονκν8ί8ης b ’Ολόρον Thucydides, son of
+3)	With genitives, as Θουκυδίδης ὁ Ὀλόρου Thucydides, son of
 Olorus.
 
-4)	With locatives, as oi MapaiWt καὶ Ίαλαμΐvi those (who fought)
-at Marathon and Salamis, τα οίκοι affairs, things at home.
+4)	With locatives, as οἱ Μαραθῶνι καὶ Σαλαμῖνι those (who fought)
+at Marathon and Salamis, τὰ οἴκοι affairs, things at home.
 
-5)	With adverbs, as oi vvv the people of to-day, oi τότε those of that
-time, oi εκεὶ those over there.
+5)	With adverbs, as οἱ νῦv the people of to-day, οἱ τότε those of that
+time, οἱ ἐκεῖ those over there.
 
-6)	With prepositional phrases, as oi ἐν τω α,στει those in the city,
-τα προς τον πόλεμον the things (needful) for the war.
+6)	With prepositional phrases, as οἱ ἐν τῷ ἄστει those in the city,
+τὰ πρὸς τὸν πόλεμον the things (needful) for the war.
 
 <pb n="204"/>INTRODUCTION TO ATTIC GREEK
 
 [487
 
 7)	The neuter article is prefixed to any word or part of speech
-when considered merely as an expression, as to λε'γει the word
-“ λεγει,” to yviodi σεαντόν the (saying) “ know thyself”
+when considered merely as an expression, as τὸ λέγει the word
+“λέγει,” to γνῶθι σεαντόν the (saying) “know thyself”
 
 8)	The neuter article in the singular, all cases, is used with the
 infinitive (articular infinitive), when emphasizing the substantive
 character of the infinitive. In this usage it is commonly translated
-by the English verbal noun in -ing, as το καλώ·: μάχεσθαι
-(the act of) fighting bravely, to fight bravely, to ypafiuv (nom.)
-writing, τον γράφειν of writing, τω γράφειν to, or for writing, το
-γράφειν (acc.) icriting. Note. — The article is always thus used
+by the English verbal noun in -ing, as τὸ καλῶς μάχεσθαι
+(the act of) fighting bravely, to fight bravely, τὸ γράφειν (nom.)
+writing, τοῦ γράφειν of writing, τῷ γράφειν to, or for writing, τὸ
+γράφειν (acc.) writing. Note. — The article is always thus used
 with the infinitive when the infinitive is construed with a
 preposition.
 
 487. Verbal adjectives. — In addition to verbal adjectives in
--T09, as found in Homer and denoting possibility, or merely as
+-τός, as found in Homer and denoting possibility, or merely as
 the equivalent of the perfect passive participle, Attic Greek has
-a verbal adjective in -τίο:, similarly formed, and used with dpi
+a verbal adjective in -τέος:, similarly formed, and used with dpi
 (often omitted), expressing necessity or duty, and admitting of
 two constructions :
 
 1)	Personal (passive) construction. Only verbal nouns from
 transitive verbs can be thus employed, the verbal agreeing in
 gender and number with the subject. The agent is in the dative,
-as ύφελητέὰ σοι ἡ πάλι: Ιστὶ the state must be benefited by you, ov
-7τρό ye τη: αλήθεια.·: τιμητέο: ἀνηρ ci man must not be honored before
+as ὠφελητέα σοι ἡ πόλις ἐστί the state must be benefited by you, οὐ
+πρό γε τῆς: ἀληθείας τιμητέος ἀνήρ a man must not be honored before
 the truth.
 
 2)	Impersonal (active) construction. In this construction,
@@ -13709,32 +13633,32 @@ which is more frequent, the verbal is active in meaning and
 stands in the neuter nominative, usually singular, while its object
 is in the case which the finite verb would govern. The agent, if
 expressed, is usually in the dative, but is sometimes in the
-accusative as if dependent upon δε?, which has a meaning similar
-to that contained in these verbals, one must. Thus ίσκψεον σοι
-την αρετήν you must Cultivate virtue, tovs φίλον: ινεργετητεον, την
-πόλιν ώφελητεον, των βοσκημάτων ετημελητεον One must do favors for
-one’s friends, benefit one’s state, and care for one’s cattle, τον
-βουλόμενον ἐνδαίμονα είναι σωφροσύνην διωκτεον καὶ ἀσκητεον he who
+accusative as if dependent upon δεῖ, which has a meaning similar
+to that contained in these verbals, one must. Thus ἀσκητέον σοι
+τὴν ἀρετήν you must cultivate virtue, τοὺς φίλοὺς εὐεργετητέον, τὴν
+πόλιν ὠφελητέον, τῶν βοσκημάτων ἐπιμελητέον One must do favors for
+one’s friends, benefit one’s state, and care for one’s cattle, τὸν
+βουλόμενον ἐυδαίμονα εἶναι σωφροσύνην διωκτέον καὶ ἀσκητέον he who
 desires to be happy must pursue and cultivate temperance.
 
 <pb n="205"/>488-500]
 
 HOMERIC GREEK
 
-488. ἀν in Attic. — Attic, which does not employ k<?(v), has the
-following unhomeric uses of av:
+488. ἄν in Attic. — Attic, which does not employ kέ(v), has the
+following unhomeric uses of ἄν:
 
 1)	With past tenses, apparently as present conditional, as
-ttoWov ἀν aiiov ην το πλόυτΰν el καὶ to χαίρειν αύτω σννην it would be
+πολλoῦ ἄν ἄξιον ἦν τὸ πλουτεῖν εἰ καὶ τὸ χαίρειν αὐτῷ συνῆν it would be
 worth a great deal to be wealthy if joy were associated with it.
 
 2)	With past tenses it takes the place of the iteratives in -σκον,
-which are not found in Attic Greek, as ίτρε-πεν ἀν = τρέπεσκεν,
-ετρεψεν ἀν = τρέψασκ€ν.
+which are not found in Attic Greek, as ἔτρεπεν ἄν = τρέπεσκεν,
+ἔτρεψεν ἄν = τρέψασκεν.
 
-3)	The subjunctive with ἀν is found in general statements
+3)	The subjunctive with ἄν is found in general statements
 which are valid also for the future, where English employs the
-indicative present, as μαινόμίθα πάντα ό-ότ' ἀν ἀργιζωμεθα, tve are all
+indicative present, as μαινόμεθα πάντες όπότ' ἄν ἀργιζώμεθα, tve are all
 mad when we are angry.
 
 489—500. These sections, which are omitted from this book for
