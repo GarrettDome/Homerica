@@ -2533,7 +2533,8 @@ foregoing rules. They are put into the nominative (639), and
 are pronounced by ignoring the Greek accent and by accenting
 the penult (543) of the word if it is long (522) in Greek, otherwise
 the antepenult ( 543), as <foreign xml:lang="greek">Ἀητώ</foreign> Lito, <foreign xml:lang="greek">"Ολυμπος</foreign> Olympus.
-
+</p>
+</div>
 <div type="textpart" n="lesson03"><head>Lesson III: nouns of the first declension</head>
 
 <p>8. Learn : </p>
@@ -6636,7 +6637,6 @@ vowel or diphthong, 1173; 4) by crasis or synizesis, 586-587.
 
 <pb n="340"/></p>
 </div>
-</div>
 
 <div type="textpart"><head>Prosody, rules of quantity</head>
 <div type="textpart" n="1178">
@@ -6834,7 +6834,7 @@ himself: a common device of public speakers. — <foreign xml:lang="greek">σφ�
 pron., acc. dual, these two. ·— <foreign xml:lang="greek">ἔριδι:</foreign> <ref>1009</ref>. — <foreign xml:lang="greek">μάχεσθαι [μάχομαι]</foreign> : pres. act.
 infinitive, deponent, to fight.
 
-9. <foreign xml:lang="greek">βασιλῆι:</foreign> <ref>996</ref>. — <foreign xml:lang="greek">χολωθείς</foreign> [<foreignb xml:lang="greek">χολόω</foreign>] : aor. pass, particip., nom. sing,
+9. <foreign xml:lang="greek">βασιλῆι:</foreign> <ref>996</ref>. — <foreign xml:lang="greek">χολωθείς</foreign> [<foreign xml:lang="greek">χολόω</foreign>] : aor. pass, particip., nom. sing,
 masc. (modifies ὀ), having been enraged,. — <foreign xml:lang="greek">Λητοῦς</foreign> = <foreign xml:lang="greek">Λητόος</foreign>, <ref>584-585</ref>. <foreign xml:lang="greek">—
 βασιλῆι</foreign> = <foreign xml:lang="greek">Ἀγαμέμνονι.</foreign> — <foreign xml:lang="greek">Λητοῦs καὶ Διὸς υἱός</foreign>  = <foreign xml:lang="greek">Ἀπόλλων</foreign>, who was mediately
 the cause of the quarrel, since he brought a plague upon the
@@ -6969,7 +6969,7 @@ Latin " "  " " <foreign xml:lang="latin">arum</foreign> (<foreign xml:lang="lati
 </div>
 
 <div type="textpart" n="693">
-
+<p>
 Dental Mute Stems
 
 <foreign xml:lang="greek">ἀναξ</foreign>, avaKTOs, ό
@@ -8840,6 +8840,7 @@ vowel, as <foreign xml:lang="greek">βένθος</foreign> depth, <foreign xml:l
 </div>
 
 <div type="textpart" n="693">
+    <p>
 693.
 
 Dental Mute Stems
@@ -9079,13 +9080,13 @@ VOCABULARY
 <item><foreign xml:lang="greek">ἀφ-ίημι</foreign> (<foreign xml:lang="greek">ἡ-</foreign>, <foreign xml:lang="greek">ἑ-</foreign>), <foreign xml:lang="greek">ἀφήσω. ἀφῆκα</foreign> (ἀφέηκα) <gloss>send away, dismiss, hurl, drive off.</gloss></item>
 
 <item><foreign xml:lang="greek">δηθύ-νω</foreign> (def.), <gloss>loiter, tarry, delay,</gloss></item>
-<item><foreign xml:lang="greek">εἶμι</foreign> (<foreign xml:lang="greek">εί-. <foreign xml:lang="greek">ἰ-</foreign>) <foreign xml:lang="greek">εἴσ-ομαι</foreign> <gloss>come, go; pres, often with fut. meaning, shall come, shall go.</gloss></item>
+<item><foreign xml:lang="greek">εἶμι</foreign> (<foreign xml:lang="greek">εί-.</foreign> <foreign xml:lang="greek">ἰ-</foreign>) <foreign xml:lang="greek">εἴσ-ομαι</foreign> <gloss>come, go; pres, often with fut. meaning, shall come, shall go.</gloss></item>
 
 <item><foreign xml:lang="greek">ἔνθα</foreign> <gloss>then, there(upon), here,</gloss></item>
 <item><foreign xml:lang="greek">ἐπ-ευ-φημέ-ω</foreign>, <foreign xml:lang="greek">ἐπευφήμησ-a</foreign> <gloss>shout assent, approve,</gloss></item>
 <item><foreign xml:lang="greek">ἤ</foreign>  (<foreign xml:lang="greek">ἠέ</foreign>) <gloss>or, than, whether,</gloss></item>
 <item><foreign xml:lang="greek">ἢ</foreign>  ... <foreign xml:lang="greek">ἤ</foreign> <gloss>either. . . or, whether... or.</gloss></item>
-<item><foreign xml:lang="greek">κιχάνω</foreign> (<foreign xml:lang="greek">κιχ-, <foreign xml:lang="greek">κιχε-</foreign>), <foreign xml:lang="greek">κιχήσομαι</foreign>, <foreign xml:lang="greek">ἐκιχησάμην</foreign> (<foreign xml:lang="greek">ἔκιχον</foreign>, <foreign xml:lang="greek">ἐκίχην</foreign>) <gloss>come upon, overtake, arrive (at).</gloss></item>
+<item><foreign xml:lang="greek">κιχάνω</foreign> (<foreign xml:lang="greek">κιχ-,</foreign> <foreign xml:lang="greek">κιχε-</foreign>), <foreign xml:lang="greek">κιχήσομαι</foreign>, <foreign xml:lang="greek">ἐκιχησάμην</foreign> (<foreign xml:lang="greek">ἔκιχον</foreign>, <foreign xml:lang="greek">ἐκίχην</foreign>) <gloss>come upon, overtake, arrive (at).</gloss></item>
 
 <item><foreign xml:lang="greek">κρατερός</foreign>. <foreign xml:lang="greek">κρατερή</foreign>, <foreign xml:lang="greek">κρατερόν</foreign> <gloss>strong, harsh, powerful,stern, mighty,</gloss></item>
 <item><foreign xml:lang="greek">μή</foreign> <gloss>not, lest, that not.</gloss></item>
@@ -9594,3 +9595,7 @@ followed by a vowel within the same word.</p>
 the verse-accent on it, the long vowel or diphthong may remain
 long, even though the next word begins with a vowel.</p>
 </div>
+</div>
+        </body>
+</text>
+</TEI>
